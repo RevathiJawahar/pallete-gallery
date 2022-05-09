@@ -1,12 +1,12 @@
-import emojiList from "./gradients.json";
+import gradientPalette from "./gradients.json";
 
 export default function filterEmoji(searchText, maxResults) {
-  return emojiList
-    .filter(emoji => {
-      if (emoji.title.toLowerCase().includes(searchText.toLowerCase())) {
+  return gradientPalette
+    .filter(colors => {
+      if (colors.title.toLowerCase().includes(searchText.toLowerCase())) {
         return true;
       }
-      if (emoji.keywords.includes(searchText)) {
+      if (colors.keywords.includes(searchText)) {
         return true;
       }
       return false;
