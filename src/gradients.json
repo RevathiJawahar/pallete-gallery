@@ -1,0 +1,33 @@
+[
+    {
+            
+    "title": "salad green",
+    "image": "cd ../Gradient",
+    "keywords":"green saladgreen parrotgreen",
+    "CSSCode":"background: linear-gradient(105.62deg, #80A71A -2.34%, #80A71A 102.37%);" 
+    },
+
+    {
+        "title": "lilac",
+        "image": "cd ../Gradient",
+        "keywords":"pink crimson tones lighttones" ,
+        "CSSCode":"background: linear-gradient(105.62deg, #8B3D78 -2.34%, #075B7B 102.37%);"
+    },
+
+    {
+        "title": "azure",
+        "image": "cd ../Gradient",
+        "keywords":"azure dark tones darktones violet" ,
+        "CSSCode":"background: linear-gradient(105.62deg, #550445 -2.34%, #550445 102.37%);"
+
+    },
+    {
+      
+        "title": "cool",
+        "image": "cd ../Gradient",
+        "keywords":"cool mixed lightshades" ,
+        "CSSCode":"background: linear-gradient(134.51deg, rgba(255, 0, 0, 0.4) -3.42%, rgba(214, 115, 0, 0.4) 13.23%, rgba(122, 180, 0, 0.4) 27%, rgba(0, 144, 58, 0.4) 41.36%, rgba(0, 144, 144, 0.4) 53.41%, rgba(0, 6, 144, 0.4) 70.06%, rgba(79, 0, 80, 0.4) 84.41%, rgba(0, 0, 0, 0.4) 102.44%);"
+
+  
+    }
+]
