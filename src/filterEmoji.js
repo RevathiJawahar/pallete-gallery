@@ -1,4 +1,4 @@
-import emojiList from "./emojiList.json";
+import emojiList from "./gradients.json";
 
 export default function filterEmoji(searchText, maxResults) {
   return emojiList

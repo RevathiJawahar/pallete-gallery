@@ -1,6 +1,6 @@
 {
-  "short_name": "Emoji Search",
-  "name": "Emoji Search Example App",
+  "short_name": "Gradients Gallery",
+  "name": " Gradients Pallete Gallery",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,6 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#5D0247",
+  "background_color": "#005395"
 }
