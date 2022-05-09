@@ -2,7 +2,7 @@
     {
             
     "title": "salad green",
-    "image": "cd ../Gradient",
+    "image": "gradient/1.png",
     "keywords":"green saladgreen parrotgreen",
     "CSSCode":"background: linear-gradient(105.62deg, #80A71A -2.34%, #80A71A 102.37%);" 
     },
@@ -21,6 +21,7 @@
         "CSSCode":"background: linear-gradient(105.62deg, #550445 -2.34%, #550445 102.37%);"
 
     },
+    
     {
       
         "title": "cool",

@@ -7,7 +7,7 @@ import "./EmojiResults.css";
 
 export default class EmojiResults extends PureComponent {
   static propTypes = {
-    emojiData: PropTypes.array
+    gradientsData: PropTypes.array
   };
 
   componentDidMount() {
@@ -21,11 +21,11 @@ export default class EmojiResults extends PureComponent {
   render() {
     return (
       <div className="component-emoji-results">
-        {this.props.emojiData.map(emojiData => (
+        {this.props.gradientsData.map(gradientsData => (
           <EmojiResultRow
-            key={emojiData.title}
-            symbol={emojiData.symbol}
-            title={emojiData.title}
+            key={gradientsData.title}
+            symbol={gradientsData.symbol}
+            title={gradientsData.title}
           />
         ))}
       </div>
